@@ -7,3 +7,6 @@ test3
 test4
 
 test5
+
+https://www.slideshare.net/galluda/
+//↑にgitのパワポがある（古庄先生の授業）
